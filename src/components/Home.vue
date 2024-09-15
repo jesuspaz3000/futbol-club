@@ -27,7 +27,7 @@ export default {
   width: 100%;
   background-image: linear-gradient(105deg, rgb(113, 2, 9) 50%, transparent 50%), url('../assets/roberto-carlos-pateando.jpg');
   background-size: 100% 100%, auto 100%;
-  background-position: left top, calc(100% + 300px) top;
+  background-position: left top, calc(100% + 200px) top;
   background-repeat: no-repeat, no-repeat;
   display: flex;
   align-items: center;

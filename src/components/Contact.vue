@@ -45,13 +45,13 @@ export default {
 .club-contact {
   background-color: rgb(113, 2, 9);
   color: white;
-  padding: 3rem 15rem;
+  padding: 3rem 15%;
 }
 
 .contact-content {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .logo, .follow-us, .contact-info {
@@ -72,7 +72,7 @@ export default {
 }
 
 .club-info {
-  margin-left: 2rem;
+  margin-left: 1.5rem;
 }
 
 .club-info h2 {

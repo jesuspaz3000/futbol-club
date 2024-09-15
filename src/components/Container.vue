@@ -148,6 +148,7 @@ export default {
   background: rgb(113, 2, 9);
   color: white;
   padding: 6rem;
+  margin-top: 2rem;
 }
 
 .description .text {
